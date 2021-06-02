@@ -38,8 +38,8 @@ class App extends Component {
         <ul>
           <li>11:00 – 5km run/walk (JOIN JOIN JOIN!)</li>
           <li>13:00 – Ping pong championship games</li>
-          <li>16:00 – Teemo organised quizzes + making of lättys</li>
-          <li>16:30 – Drinking Gin+tonic</li>
+          <li>16:00 – Teemo organised quizzes + making of lättys</li>
+          <li>16:30 – Drinking Gin+tonic</li>
           <li>17:00 – Eating of lättys</li>
           <li>18:00 – Finnish drinking games</li>
           <li>19:00 – Card and board and other games</li>
