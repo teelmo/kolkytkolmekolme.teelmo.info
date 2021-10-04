@@ -30,19 +30,17 @@ class App extends Component {
         <Confetti width={window.innerWidth} height={window.innerHeight} recycle={true} className={style.rain} />
         <h1>Welcome to my fiesta</h1>
         <div className={style.image_container}><img src="img/teemo 2vuotias.jpg" /></div>
-        <h3>When: 17 October</h3>
+        <h3>When: 16 October</h3>
         <h3>Where: Blvr du Pont d'Arve 22</h3>
-        <h3>What: A day of fun</h3>
+        <h3>What: A day of fun and dandy</h3>
         <div className={style.image_container}><img src="img/IMG_1260.jpeg" /></div>
         <h1>Exact Schedule</h1>
         <ul>
-          <li>11:00 – 5km run/walk (JOIN JOIN JOIN!)</li>
           <li>13:00 – Ping pong championship games</li>
-          <li>16:00 – Teemo organised quizzes + making of lättys</li>
-          <li>16:30 – Drinking Gin+tonic</li>
-          <li>17:00 – Eating of lättys</li>
-          <li>18:00 – Finnish drinking games</li>
-          <li>19:00 – Card and board and other games</li>
+          <li>16:00 – Teemo organised quiz + making of lättys</li>
+          <li>16:00 – Drinking Gin+tonic</li>
+          <li>16:00 – Eating of lättys</li>
+          <li>19:30 – Ice hockey Geneva Servettes</li>
         </ul>
         <h3>Come and celebrate or don't come</h3>
         <div className={style.image_container}><img src="img/9-luokka.jpg" /></div>
