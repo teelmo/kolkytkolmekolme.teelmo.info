@@ -45,7 +45,7 @@ class App extends Component {
         <h3>Come and celebrate or don't come</h3>
         <div className={style.image_container}><img src="img/9-luokka.jpg" /></div>
         <h1>To get you into the mood (or to warn you)</h1>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/oZjf2SWHYYE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div className={style.video_container}><iframe width="100%" height="" src="https://www.youtube.com/embed/oZjf2SWHYYE" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>
       </div>
     );
   }
